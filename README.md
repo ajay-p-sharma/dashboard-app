@@ -40,7 +40,7 @@ $ source env/bin/activate
 ```bash
 $ cat requirements.txt | xargs -n 1 pip install
 ```
-## To run the client locally
+## To run the app locally
 ```bash
 $ python main.py
 ```
